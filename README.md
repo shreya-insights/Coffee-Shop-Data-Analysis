@@ -2,7 +2,8 @@
 I developed a comprehensive project in excel, creating multiple interactive dashboards, and table to analyze the data. This process involved several stages, including data preprocessing, data cleaning and data visualiztion.
 
 ## Dataset used
-- <a href="https://github.com/shreya-insights/Data-Analysis-Dashboard-2/raw/refs/heads/main/Coffee%20Shop%20Data.xlsx"></a>
+- <a href="https://github.com/shreya-insights/Data-Analysis-Dashboard-2/raw/refs/heads/main/Coffee%20Shop%20Data.xlsx">Coffee Shop (Raw Dataset)</a>
+
 
 ## KPIs:
 - Total Sales by Month – Track overall monthly sales performance.
@@ -15,7 +16,7 @@ I developed a comprehensive project in excel, creating multiple interactive dash
 - Time of Day vs Product Type – Evaluate which product types perform best at different times.
 - Customer Segmentation by Category – Segment sales by product category to understand preferences.
   
-- Dashboard Interaction <a href="https://github.com/shreya-insights/Data-Analysis-Dashboard-2/blob/main/Coffee%20Shop%20Dashboard.xlsx"></a>
+- Dashboard Interaction <a href="https://github.com/shreya-insights/Data-Analysis-Dashboard-2/blob/main/Coffee%20Shop%20Dashboard.xlsx">Dashboard</a>
 
 
 ## Process
@@ -26,7 +27,7 @@ I developed a comprehensive project in excel, creating multiple interactive dash
 - Enabled interactive filtering for deep dives into specific subsets of the data.
 
 ## Processed Dataset
-- <a href="https://github.com/shreya-insights/Data-Analysis-Dashboard-2/blob/main/Coffee%20Shop%20(Processed%20Data).xlsx"><a/>
+- <a href="https://github.com/shreya-insights/Data-Analysis-Dashboard-2/blob/main/Coffee%20Shop%20(Processed%20Data).xlsx">Coffee Shop (Procesed Data)<a/>
 
 
 ## Dashboard 
