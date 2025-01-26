@@ -1,4 +1,4 @@
-# Coffee Shop Data Analysis-2
+# Coffee Shop Data Analysis
 I developed a comprehensive project in excel, creating multiple interactive dashboards, and table to analyze the data. This process involved several stages, including data preprocessing, data cleaning and data visualiztion.
 
 ## Dataset used
